@@ -8,9 +8,12 @@ import Card from "./card";
 //create your first component
 function Home() {
 	return (
-		<><div className="text-center">
-			<Card />
-			</div></>
+		<>
+			
+			<div className="text-center">
+				<Card />
+			</div>
+		</>
 	);
 };
 
