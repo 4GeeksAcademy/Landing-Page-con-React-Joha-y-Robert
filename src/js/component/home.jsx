@@ -5,6 +5,7 @@ import rigoImage from "../../img/rigo-baby.jpg";
 import Card from "./card";
 
 
+
 //create your first component
 function Home() {
 	return (
