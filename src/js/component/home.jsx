@@ -11,13 +11,14 @@ import Jumbo from "./jumbo";
 function Home() {
 	return (
 		
-		<>
+		<div className="container">
 			<Navbar />
+			
 			<Jumbo />
 			<div className="text-center">
 				<Card />
 			</div>
-		</>
+		</div>
 	);
 };
 
