@@ -12,9 +12,13 @@ import Navbar from "./component/navbar";
 
 //render your react application
 ReactDOM.render(<Home />, document.querySelector("#app"));
+
+
+
+/*
 ReactDOM.render(<Navbar />, document.querySelector("#app"));
 ReactDOM.render(<Card />, document.querySelector("#app"));
-
+*/
 
 
 
