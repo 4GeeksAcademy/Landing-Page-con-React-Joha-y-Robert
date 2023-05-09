@@ -13,7 +13,6 @@ function Home() {
 		
 		<div className="container">
 			<Navbar />
-			
 			<Jumbo />
 			<div className="text-center">
 				<Card />
